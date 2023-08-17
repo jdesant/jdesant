@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jdesant
 - 👀 I’m interested in Data Engineering and Data Science.
 - 🌱 I’m currently learning Power BI, Python, and SQL.
-- 💞️ I’m looking to collaborate on data science projects.
+- 💞️ I’m looking to collaborate on data science and data engineering projects.
 - 📫 How to reach me: https://www.linkedin.com/in/jerdes/
 
 <!---
